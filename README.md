@@ -1,0 +1,1 @@
+# GlobalSign-Certificate-Policy
